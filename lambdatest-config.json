@@ -1,0 +1,38 @@
+{
+   "lambdatest_auth": {
+      "username": "ajay.gupta1711",
+      "access_key": "bqYNGEZJNRPsajxx5pBdMJSpzeHNBFrSQEd9xJwnk5fQDZCC22"
+   },
+   "browsers": [
+      {
+         "browser": "Chrome",
+         "platform": "Windows 10",
+         "versions": [
+            "latest-1"
+         ]
+      },
+      {
+         "browser": "Firefox",
+         "platform": "Windows 11",
+         "versions": [
+            "latest-1"
+         ]
+      }
+   ],
+   "run_settings": {
+      "reporter_config_file": "base_reporter_config.json",
+      "build_name": "BR 1.0",
+      "parallels": 1,
+      "specs": "cypress/Integration/Samples/LambdaTest/LambdaTest-Certifications.cy.js",
+      "ignore_files": "",
+      "network": false,
+      "headless": false,
+      "npm_dependencies": {
+         "cypress": "10"
+      }
+   },
+   "tunnel_settings": {
+      "tunnel": false,
+      "tunnel_name": null
+   }
+}
