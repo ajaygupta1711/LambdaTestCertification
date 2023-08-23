@@ -41,7 +41,7 @@ LambdaTest-Certifications.cy.js
 2. Start using below mentioned command one by one.
 
 > set LT_USERNAME="ajay.gupta1711"
-> set LT_ACCESS_KEY="bqYNGEZJNRPsajxx5pBdMJSpzeHNBFrSQEd9xJwnk5fQDZCC22"
+> set LT_ACCESS_KEY="bqYNGEZJNRPsajxx5pBdMJSpze HNBFrSQEd9xJwnk5fQDZCC22"
 > npm install -g lambdatest-cypress-cli
 > npm install
 > lambdatest-cypress init --cv=10
