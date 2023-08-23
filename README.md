@@ -1,4 +1,4 @@
-## Project: 
+## Project 
 LambdaTest Certifications - https://www.lambdatest.com/selenium-playground/
 1. Drag & Drop Sliders
 2. Input Form Submit
@@ -17,7 +17,7 @@ Before getting started with Selenium automation testing on LambdaTest, you need 
 ## Run JavaScript Tests With Node.js On LambdaTest
 
 
-## Repository:
+## Repository
 ## GitHub Link:
 https://github.com/ajaygupta1711/LambdaTestCertification/tree/master
 ## Gitpod Link:
@@ -31,7 +31,7 @@ MTCXM-GPOGT-UXYBZ-XEC8O
 SZ0KY-U0QXS-5PQNM-1IWLI
 
 
-## Test Name:
+## Test Name
 LambdaTest-Certifications.cy.js
 
 
@@ -74,7 +74,7 @@ npx cypress open
 npx cypress run --browser chrome
 
 
-##Note:
+##Note
 Have created another test 'LambdaTest-Certifications1.cy.js' including Xpath locators and also, used InjextAxe. However, both are not working while executing the tests on LambdaTest Application.
 
 
