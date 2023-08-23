@@ -18,13 +18,17 @@ Before getting started with Selenium automation testing on LambdaTest, you need 
 
 
 ## Repository:
-GitHub Link: https://github.com/ajaygupta1711/LambdaTestCertification/tree/master
-Gitpod Link: https://gitpod.io/new/#https://github.com/ajaygupta1711/LambdaTestCertification/tree/master
+## GitHub Link:
+https://github.com/ajaygupta1711/LambdaTestCertification/tree/master
+## Gitpod Link:
+https://gitpod.io/new/#https://github.com/ajaygupta1711/LambdaTestCertification/tree/master
 
 
 ## Test IDs on LambdaTest Application:
-Test ID #1: MTCXM-GPOGT-UXYBZ-XEC8O
-Test ID #2: SZ0KY-U0QXS-5PQNM-1IWLI
+## Test ID-1:
+MTCXM-GPOGT-UXYBZ-XEC8O
+## Test ID-2:
+SZ0KY-U0QXS-5PQNM-1IWLI
 
 
 ## Test Name:
@@ -55,9 +59,6 @@ Make sure you have your LambdaTest credentials with you to run test automation s
 
 Set LambdaTest `Username` and `Access Key` in environment variables.
 
-  * For **Linux/macOS**:
-  ```bash
-  export LT_USERNAME="YOUR_USERNAME" export LT_ACCESS_KEY="YOUR ACCESS KEY"
   ```
   * For **Windows**:
   ```bash
