@@ -1,4 +1,4 @@
-##Project: 
+## Project: 
 LambdaTest Certifications - https://www.lambdatest.com/selenium-playground/
 1. Drag & Drop Sliders
 2. Input Form Submit
@@ -65,7 +65,7 @@ Set LambdaTest `Username` and `Access Key` in environment variables.
   ```
 
 
-### Writing your Test Cases
+## Writing your Test Cases
 
 Create the file under Integration folder with the extention of '<file name>.cy.js'
 
@@ -75,4 +75,4 @@ Create the file under Integration folder with the extention of '<file name>.cy.j
 npx cypress open
 npx cypress run --browser chrome
 
-*** Thank you for providing the opportunity to learn and gain the knowledge of Cypress Automation Tool ***
+## Thank you for providing the opportunity to learn and gain the knowledge of Cypress Automation Tool !!
