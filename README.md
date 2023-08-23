@@ -74,8 +74,7 @@ npx cypress open
 npx cypress run --browser chrome
 
 
-## Note: Create another test 'LambdaTest-Certifications1.cy.js' including Xpath locators and also, used InjextAxe.
-However, both are not working while executing the tests on LambdaTest Application.
+## Note: Have created another test 'LambdaTest-Certifications1.cy.js' including Xpath locators and also, used InjextAxe. However, both are not working while executing the tests on LambdaTest Application.
 
 
 ## Thank you for providing the opportunity to learn and gain the knowledge of Cypress Automation Tool !!
