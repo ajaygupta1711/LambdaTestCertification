@@ -40,12 +40,12 @@ LambdaTest-Certifications.cy.js
 1. Open the command prompt and navigate to the path where the respository is saved.
 2. Start using below mentioned command one by one.
 
-> set LT_USERNAME="ajay.gupta1711"
-> set LT_ACCESS_KEY="bqYNGEZJNRPsajxx5pBdMJSpze HNBFrSQEd9xJwnk5fQDZCC22"
-> npm install -g lambdatest-cypress-cli
-> npm install
-> lambdatest-cypress init --cv=10
-> lambdatest-cypress run
+a. set LT_USERNAME="ajay.gupta1711"
+b. set LT_ACCESS_KEY="bqYNGEZJNRPsajxx5pBdMJSpze HNBFrSQEd9xJwnk5fQDZCC22"
+c. npm install -g lambdatest-cypress-cli
+d. npm install
+e. lambdatest-cypress init --cv=10
+f. lambdatest-cypress run
 
 3. Opent the 'lambdatest-config.json' file and Update the Credentials and Specs Path (Use below option ## Setting up Your Authentication).
 
@@ -74,7 +74,7 @@ npx cypress open
 npx cypress run --browser chrome
 
 
-##Note
+## Note
 Have created another test 'LambdaTest-Certifications1.cy.js' including Xpath locators and also, used InjextAxe. However, both are not working while executing the tests on LambdaTest Application.
 
 
